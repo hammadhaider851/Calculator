@@ -6,4 +6,4 @@ It will include add, multiple, divide , exponential functions of calculator.
 Author - Hammad Haider (Software Develepor)
 <br>
 
-AGE :18kkni
+AGE :18
