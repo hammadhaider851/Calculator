@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  printf("HELO    THIS IS   kbkbjbkjkjkjbjb      HAMMAD");
+  printf("HELLO .this is  WORLD");
   return 0;
 }
