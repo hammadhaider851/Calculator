@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  printf("HELO   mlmrlmg THIS IS   kbkbjbkjkjkjbjb    ooooo,o,  HAMMAD");
+  printf("HELO   mlmrlmgdknkdnkvndvd THIS I HAMMAD");
   return 0;
 }
